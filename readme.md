@@ -60,7 +60,7 @@ Nothing fancy. Everything useful.
 ## 👋 Maintained by
 
 **Ekansh Pratap Singh**  
-Builder at **DevArea**
+Developer at **DevArea**
 
 I enjoy creating things that are:
 - small but impactful  
